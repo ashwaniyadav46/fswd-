@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../fswd"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"livePreview.hostIP": " 192.168.1.17",
+		"livePreview.showServerStatusNotifications": false,
+		"liveServer.settings.multiRootWorkspaceName": "folder1"
+	}
+}
